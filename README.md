@@ -21,7 +21,7 @@ Di LogiCraft, pemain dapat mempelajari gerbang logika mulai dari yang paling das
 
 ### Tabel kebenaran gerbang logika
 
-![alt text](./Images/metode.png)
+![alt text](./Images/tabel.png)
 
 ### Area dimana pemain dapat membangun gerbang logika sendiri
 
