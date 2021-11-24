@@ -1,5 +1,8 @@
 # LogiCraft
 
+## Showcase Video
+[![LogiCraft Showcase Video](https://img.youtube.com/vi/mCD_LAdX4Bw/3.jpg)](https://www.youtube.com/watch?v=mCD_LAdX4Bw)
+
 ## Daftar Isi
 * [Apa itu LogiCraft](#apa-itu-logicraft)
 * [Fitur dalam world](#fitur-dalam-world)
@@ -92,3 +95,4 @@ Di LogiCraft, pemain dapat mempelajari gerbang logika mulai dari yang paling das
 Saat kamu sudah di garden. Kamu dapat menggunakan fitur save dan load. Kamu dapat menggunakan 3 slot save.
 Untuk melakukan save, kamu dapat mengirim pesan melalui chat dengan bentuk ```save[slot]```. Sebagai contoh, untuk menyimpan di slot pertama, kamu dapat mengirim pesan ```save1```.
 Untuk melakukan load, kamu dapat mengirim pesan melalui chat dengan bentuk ```load[slot]```. Sebagai contoh, untuk memuat simpanan yang ada di slot pertama, kamu dapat mengirim pesan ```load1```.
+
