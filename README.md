@@ -2,6 +2,7 @@
 
 ## Showcase Video
 [![LogiCraft Showcase Video](https://img.youtube.com/vi/mCD_LAdX4Bw/3.jpg)](https://www.youtube.com/watch?v=mCD_LAdX4Bw)
+https://www.instagram.com/p/CWr5ld-l-xs/
 
 ## Daftar Isi
 * [Apa itu LogiCraft](#apa-itu-logicraft)
