@@ -42,6 +42,10 @@ Di LogiCraft, pemain dapat mempelajari gerbang logika mulai dari yang paling das
 
 ![alt text](./Images/quiz2.png)
 
+### Garden yang indah
+
+![alt text](./Images/garden.png)
+
 ### Serta free to build room dengan fitur save and load
 
 ![alt text](./Images/free.png)
